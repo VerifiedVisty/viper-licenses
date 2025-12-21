@@ -1,10 +1,12 @@
 [
   {
     "license": "123123",
-    "hwid": ""
+    "hwid": "",
+    "expireDate": "31/12/2025"
   },
   {
     "license": "192919",
-    "hwid": ""
+    "hwid": "",
+    "expireDate": "01/01/2026"
   }
 ]
