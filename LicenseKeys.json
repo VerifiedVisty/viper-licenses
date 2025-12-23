@@ -9,7 +9,7 @@
     "license": "8571930129572",
     "hwid": "7e965ef60391e44185080b273d2f0c191255a44888d0deaff65ce1b14d0f4c96",
     "expireDate": "12/12/2099",
-    "isAdmin": false
+    "isAdmin": true
   },
   {
     "license": "9281734192915",
@@ -17,4 +17,5 @@
     "expireDate": "1/1/2099",
     "isAdmin": false
   }
+
 ]
