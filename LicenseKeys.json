@@ -10,11 +10,5 @@
     "hwid": "00bf8dff987dda0209cd8e1ab2047b3ecef06407b6ad3d116d91d0814b162918",
     "expireDate": "01/01/2099",
     "isAdmin": true
-  },
-  {
-    "license": "6868678925836",
-    "hwid": "",
-    "expireDate": "01/01/2099",
-    "isAdmin": false
   }
 ]
